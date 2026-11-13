@@ -1,0 +1,143 @@
+REDE SOCIAL - COMUNIDADE UNIVERSITARIA
+Dados demonstrativos; nomes completos, idades, cursos e interesses.
+
+[00] Ana Silva | 20 anos | Computacao | Programacao
+     Amigos: Felipe Almeida, Elisa Costa, Diego Souza, Carla Oliveira, Bruno Santos
+
+[01] Bruno Santos | 21 anos | Computacao | Jogos
+     Amigos: Carla Oliveira, Ana Silva
+
+[02] Carla Oliveira | 20 anos | Matematica | Xadrez
+     Amigos: Gabriela Lima, Bruno Santos, Ana Silva
+
+[03] Diego Souza | 22 anos | Engenharia | Robotica
+     Amigos: Felipe Almeida, Elisa Costa, Ana Silva
+
+[04] Elisa Costa | 19 anos | Design | Fotografia
+     Amigos: Felipe Almeida, Diego Souza, Ana Silva
+
+[05] Felipe Almeida | 21 anos | Computacao | Musica
+     Amigos: Henrique Rocha, Gabriela Lima, Elisa Costa, Diego Souza, Ana Silva
+
+[06] Gabriela Lima | 20 anos | Design | Cinema
+     Amigos: Carla Oliveira, Henrique Rocha, Felipe Almeida
+
+[07] Henrique Rocha | 23 anos | Engenharia | Ciclismo
+     Amigos: Joao Pereira, Isabela Martins, Gabriela Lima, Felipe Almeida
+
+[08] Isabela Martins | 21 anos | Matematica | Leitura
+     Amigos: Joao Pereira, Henrique Rocha
+
+[09] Joao Pereira | 20 anos | Computacao | Robotica
+     Amigos: Mariana Gomes, Lucas Fernandes, Karen Ribeiro, Isabela Martins, Henrique Rocha
+
+[10] Karen Ribeiro | 22 anos | Design | Desenho
+     Amigos: Mariana Gomes, Lucas Fernandes, Joao Pereira
+
+[11] Lucas Fernandes | 21 anos | Engenharia | Futebol
+     Amigos: Pedro Araujo, Mariana Gomes, Karen Ribeiro, Joao Pereira
+
+[12] Mariana Gomes | 19 anos | Computacao | Xadrez
+     Amigos: Olivia Carvalho, Nicolas Barbosa, Lucas Fernandes, Karen Ribeiro, Joao Pereira
+
+[13] Nicolas Barbosa | 20 anos | Matematica | Musica
+     Amigos: Olivia Carvalho, Mariana Gomes
+
+[14] Olivia Carvalho | 22 anos | Design | Teatro
+     Amigos: Quezia Melo, Pedro Araujo, Nicolas Barbosa, Mariana Gomes
+
+[15] Pedro Araujo | 23 anos | Engenharia | Corrida
+     Amigos: Lucas Fernandes, Quezia Melo, Olivia Carvalho
+
+[16] Quezia Melo | 21 anos | Computacao | Cinema
+     Amigos: Tiago Vieira, Sofia Nunes, Rafael Dias, Pedro Araujo, Olivia Carvalho
+
+[17] Rafael Dias | 20 anos | Matematica | Jogos
+     Amigos: Tiago Vieira, Sofia Nunes, Quezia Melo
+
+[18] Sofia Nunes | 19 anos | Design | Leitura
+     Amigos: Tiago Vieira, Rafael Dias, Quezia Melo
+
+[19] Tiago Vieira | 22 anos | Engenharia | Fotografia
+     Amigos: Vitor Moreira, Ursula Teixeira, Sofia Nunes, Rafael Dias, Quezia Melo
+
+[20] Ursula Teixeira | 21 anos | Computacao | Teatro
+     Amigos: Vitor Moreira, Tiago Vieira
+
+[21] Vitor Moreira | 20 anos | Matematica | Ciclismo
+     Amigos: Yasmin Freitas, Wesley Castro, Ursula Teixeira, Tiago Vieira
+
+[22] Wesley Castro | 23 anos | Engenharia | Futebol
+     Amigos: Yasmin Freitas, Vitor Moreira
+
+[23] Yasmin Freitas | 19 anos | Design | Desenho
+     Amigos: Zelia Mendes, Wesley Castro, Vitor Moreira
+
+[24] Zelia Mendes | 22 anos | Computacao | Leitura
+     Amigos: Yasmin Freitas
+
+Total: 25 participantes e 42 amizades.
+
+PANELINHAS MAXIMAIS (pelo menos 3 participantes)
+P1 (3 membros): {Ana Silva, Bruno Santos, Carla Oliveira}
+P2 (4 membros): {Ana Silva, Diego Souza, Elisa Costa, Felipe Almeida}
+P3 (3 membros): {Felipe Almeida, Gabriela Lima, Henrique Rocha}
+P4 (3 membros): {Henrique Rocha, Isabela Martins, Joao Pereira}
+P5 (4 membros): {Joao Pereira, Karen Ribeiro, Lucas Fernandes, Mariana Gomes}
+P6 (3 membros): {Mariana Gomes, Nicolas Barbosa, Olivia Carvalho}
+P7 (3 membros): {Olivia Carvalho, Pedro Araujo, Quezia Melo}
+P8 (4 membros): {Quezia Melo, Rafael Dias, Sofia Nunes, Tiago Vieira}
+P9 (3 membros): {Tiago Vieira, Ursula Teixeira, Vitor Moreira}
+P10 (3 membros): {Vitor Moreira, Wesley Castro, Yasmin Freitas}
+Total de panelinhas: 10
+
+PESSOAS INFLUENTES
+Ana Silva: unico membro comum a P1 P2.
+Felipe Almeida: unico membro comum a P2 P3.
+Henrique Rocha: unico membro comum a P3 P4.
+Joao Pereira: unico membro comum a P4 P5.
+Mariana Gomes: unico membro comum a P5 P6.
+Olivia Carvalho: unico membro comum a P6 P7.
+Quezia Melo: unico membro comum a P7 P8.
+Tiago Vieira: unico membro comum a P8 P9.
+Vitor Moreira: unico membro comum a P9 P10.
+Total de pessoas influentes: 9
+
+AMIZADES INFLUENTES (consulta complementar)
+Ana Silva (P1) -- Felipe Almeida (P2)
+Ana Silva (P1) -- Elisa Costa (P2)
+Ana Silva (P1) -- Diego Souza (P2)
+Ana Silva (P2) -- Carla Oliveira (P1)
+Ana Silva (P2) -- Bruno Santos (P1)
+Carla Oliveira (P1) -- Gabriela Lima (P3)
+Diego Souza (P2) -- Felipe Almeida (P3)
+Elisa Costa (P2) -- Felipe Almeida (P3)
+Felipe Almeida (P2) -- Henrique Rocha (P3)
+Felipe Almeida (P2) -- Gabriela Lima (P3)
+Gabriela Lima (P3) -- Henrique Rocha (P4)
+Henrique Rocha (P3) -- Joao Pereira (P4)
+Henrique Rocha (P3) -- Isabela Martins (P4)
+Isabela Martins (P4) -- Joao Pereira (P5)
+Joao Pereira (P4) -- Mariana Gomes (P5)
+Joao Pereira (P4) -- Lucas Fernandes (P5)
+Joao Pereira (P4) -- Karen Ribeiro (P5)
+Karen Ribeiro (P5) -- Mariana Gomes (P6)
+Lucas Fernandes (P5) -- Pedro Araujo (P7)
+Lucas Fernandes (P5) -- Mariana Gomes (P6)
+Mariana Gomes (P5) -- Olivia Carvalho (P6)
+Mariana Gomes (P5) -- Nicolas Barbosa (P6)
+Nicolas Barbosa (P6) -- Olivia Carvalho (P7)
+Olivia Carvalho (P6) -- Quezia Melo (P7)
+Olivia Carvalho (P6) -- Pedro Araujo (P7)
+Pedro Araujo (P7) -- Quezia Melo (P8)
+Quezia Melo (P7) -- Tiago Vieira (P8)
+Quezia Melo (P7) -- Sofia Nunes (P8)
+Quezia Melo (P7) -- Rafael Dias (P8)
+Rafael Dias (P8) -- Tiago Vieira (P9)
+Sofia Nunes (P8) -- Tiago Vieira (P9)
+Tiago Vieira (P8) -- Vitor Moreira (P9)
+Tiago Vieira (P8) -- Ursula Teixeira (P9)
+Ursula Teixeira (P9) -- Vitor Moreira (P10)
+Vitor Moreira (P9) -- Yasmin Freitas (P10)
+Vitor Moreira (P9) -- Wesley Castro (P10)
+Total de amizades influentes: 36

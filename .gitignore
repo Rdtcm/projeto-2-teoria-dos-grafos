@@ -53,3 +53,7 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Artefatos temporarios de leitura e renderizacao
+tmp/
+__pycache__/
